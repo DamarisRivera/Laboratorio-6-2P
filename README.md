@@ -24,6 +24,8 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/178373164-28a88401-9106-4646-91a6-3398fb6c7aa1.png)
 
+**1.-Se va encontrar la corriente por cada resistencia para poder encontrar la potencia**
+
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 ![image](https://user-images.githubusercontent.com/105617383/178373164-28a88401-9106-4646-91a6-3398fb6c7aa1.png)
