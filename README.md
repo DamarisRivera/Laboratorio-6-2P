@@ -24,6 +24,10 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/178373164-28a88401-9106-4646-91a6-3398fb6c7aa1.png)
 
+# 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+![image](https://user-images.githubusercontent.com/105617383/178373164-28a88401-9106-4646-91a6-3398fb6c7aa1.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/178374572-99f1f463-2cc1-4cb3-b659-faac5f5354b1.png)
 
 **RL = 220 Ω**
@@ -56,11 +60,17 @@
 
 **RL = 2.2 KΩ**
 
+![image](https://user-images.githubusercontent.com/105617383/178375782-ff4190ff-ad16-4943-97ac-7b0abf082dd2.png)
+
 **RL = 3.9 KΩ**
+
+![image](https://user-images.githubusercontent.com/105617383/178375823-92823a6b-8007-48bc-acfb-082da145f3f6.png)
 
 **RL = 4.7 KΩ**
 
-# 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+![image](https://user-images.githubusercontent.com/105617383/178375859-ff995dc2-c6c1-4ec8-bad2-8b8dd0703476.png)
+
+
 
 
 # 5.VIDEO
