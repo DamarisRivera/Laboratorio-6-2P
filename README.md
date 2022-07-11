@@ -1,1 +1,26 @@
 # Laboratorio-6-2P
+
+# 1. OBJETIVOS 
+
+**Objetivo General:**
+
+
+**Objetivo Específicos:**
+
+
+# 2. MARCO TEORICO 
+
+
+# 3. EXPLICACIÓN DEL PROCEDIMIENTO 
+
+
+# 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+# 5.VIDEO
+
+# 6.CONCLUSIONES
+
+# 7.BIBLIOGRAFÍA
+
+
+
