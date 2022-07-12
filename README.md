@@ -81,9 +81,19 @@
 
 **RL = 4.7 KΩ**
 
-![image](https://user-images.githubusercontent.com/105617383/178375859-ff995dc2-c6c1-4ec8-bad2-8b8dd0703476.png)
+![image](https://user-images.githubusercontent.com/105617383/178375859-ff995dc2-c6c1-4ec8-bad2-8b8dd0703476.png
+
+Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
 
 ![image](https://user-images.githubusercontent.com/105617383/178509870-ddcff005-0173-448f-a0c7-0c79865dd9eb.png)
+
+![image](https://user-images.githubusercontent.com/105617383/178512154-d10fd118-a223-42e2-8791-758b1af1ebee.png)
+
+Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
+
+![image](https://user-images.githubusercontent.com/105617383/178512206-fffd1820-314d-46a2-805e-ded9cef20b3a.png)
+
+![image](https://user-images.githubusercontent.com/105617383/178512230-f3123c08-5fd2-4d57-92b5-cb871054a4a1.png)
 
 **6.5.3. Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.**
 
