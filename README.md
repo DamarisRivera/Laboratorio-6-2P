@@ -85,9 +85,11 @@
 
 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
 
-![image](https://user-images.githubusercontent.com/105617383/178509870-ddcff005-0173-448f-a0c7-0c79865dd9eb.png)
+![image](https://user-images.githubusercontent.com/105617383/178564339-e103095f-5b32-4fa5-98e4-d5ce84a68c96.png)
 
-![image](https://user-images.githubusercontent.com/105617383/178512154-d10fd118-a223-42e2-8791-758b1af1ebee.png)
+![image](https://user-images.githubusercontent.com/105617383/178562681-9ea87697-a313-4fb1-87ca-67099840b205.png)
+
+![image](https://user-images.githubusercontent.com/105617383/178561548-aded8da3-21e5-4d82-963e-04178857758a.png)
 
 Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
 
