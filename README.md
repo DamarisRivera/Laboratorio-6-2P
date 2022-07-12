@@ -135,6 +135,7 @@ De acuerdo a lo observado, la potencia es menor si la resistencia RL es baja y a
 
 # 5.VIDEO
 
+https://youtu.be/m-0UP_3j4_4
 
 # 6.CONCLUSIONES
 
