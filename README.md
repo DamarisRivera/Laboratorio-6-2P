@@ -95,8 +95,7 @@ Calcule las potencia consumida por RL, para cada valor dado y anote los resultad
 
 ![image](https://user-images.githubusercontent.com/105617383/178558241-15120054-7ae7-4b59-8ed9-418b1500f2cf.png)
 
-
-![image](https://user-images.githubusercontent.com/105617383/178512230-f3123c08-5fd2-4d57-92b5-cb871054a4a1.png)
+![image](https://user-images.githubusercontent.com/105617383/178559544-a0acd909-8fa9-429a-88f2-e0e75f51cb12.png)
 
 **6.5.3. Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.**
 
