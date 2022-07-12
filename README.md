@@ -126,7 +126,7 @@ respuesta.**
 
 **Calcular errores de las mediciones y comentar los resultados.**
 
-* Puesto que los valores de la tabla no difieren los unos de lo otros, el calculo de erro seria de un 0%
+* Puesto que los valores de la tabla no difieren los unos de lo otros, el calculo de error seria de un 0%
 
 
 # 5.VIDEO
