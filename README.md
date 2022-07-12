@@ -91,6 +91,8 @@ Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6
 
 Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
 
+![WhatsApp Image 2022-07-12 at 9 56 53 AM](https://user-images.githubusercontent.com/105671763/178522891-b263ea55-3ebc-4cf9-91b4-2f9083667aab.jpeg)
+
 ![image](https://user-images.githubusercontent.com/105617383/178512206-fffd1820-314d-46a2-805e-ded9cef20b3a.png)
 
 ![image](https://user-images.githubusercontent.com/105617383/178512230-f3123c08-5fd2-4d57-92b5-cb871054a4a1.png)
