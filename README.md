@@ -124,6 +124,8 @@ respuesta.**
 
 ![image](https://user-images.githubusercontent.com/105671763/178550200-cd43b043-8133-4c6d-a796-4387ee874b4a.png)
 
+De acuerdo a lo observado, la potencia es menor si la resistencia RL es baja y a medida que RL aumente de valor la potencia ascciende, sin embargo, si el valor de RL incrementa demasiado la potencia de nuevo tiende a disminuir.
+
 **Calcular errores de las mediciones y comentar los resultados.**
 
 * Puesto que los valores de la tabla no difieren los unos de lo otros, el calculo de error seria de un 0%
