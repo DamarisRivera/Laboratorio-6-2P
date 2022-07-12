@@ -26,7 +26,16 @@
 
 **1.-Se va encontrar la corriente por cada resistencia para poder encontrar la potencia**
 
+![image](https://user-images.githubusercontent.com/105617383/178399053-1f47e183-caf0-4d9f-a4b7-30a9f343ced5.png)
+
+![image](https://user-images.githubusercontent.com/105617383/178400325-347ff141-3014-4476-9d69-0c2a247ef4a3.png)
+
+![image](https://user-images.githubusercontent.com/105617383/178401729-a3ac1dd6-41ae-4e90-a5e6-dd58295002cd.png)
+
+
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+**6.5.1.Arme el circuito que se muestra en la figura** 
 
 ![image](https://user-images.githubusercontent.com/105617383/178373164-28a88401-9106-4646-91a6-3398fb6c7aa1.png)
 
