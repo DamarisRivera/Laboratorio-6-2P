@@ -120,7 +120,7 @@ respuesta.**
 
 * 1200 Ω
 
-**6.5.7. Grafique la curva Potencia vs RL y comente.
+**6.5.7. Grafique la curva Potencia vs RL y comente.**
 
 ![image](https://user-images.githubusercontent.com/105671763/178550200-cd43b043-8133-4c6d-a796-4387ee874b4a.png)
 
