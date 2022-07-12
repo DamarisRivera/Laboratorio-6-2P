@@ -83,7 +83,25 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/178375859-ff995dc2-c6c1-4ec8-bad2-8b8dd0703476.png)
 
+**6.5.3. Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.**
 
+![image](https://user-images.githubusercontent.com/105617383/178403244-cc11fa74-0725-44dd-8a60-a05596296bee.png)
+![image](https://user-images.githubusercontent.com/105617383/178403271-1dc06327-f69e-488a-a80a-bb34f074ee2f.png)
+
+**Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.**
+
+![image](https://user-images.githubusercontent.com/105617383/178403639-7a8ab3ee-a8f5-4175-96e8-b90d7f0bf551.png)
+
+**6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
+respuesta.**
+
+**6.5.5. ¿Cuál fue la potencia máxima en RL? __________________Watts**
+
+**6.5.6. ¿Para qué valor de RL se obtiene la MTP? _______________ Ω**
+
+**6.5.7. Grafique la curva Potencia vs RL y comente.**
+
+**Calcular errores de las mediciones y comentar los resultados.**
 
 
 # 5.VIDEO
