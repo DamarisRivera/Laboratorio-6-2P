@@ -41,6 +41,8 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/178374572-99f1f463-2cc1-4cb3-b659-faac5f5354b1.png)
 
+![WhatsApp Image 2022-07-13 at 9 44 09 PM](https://user-images.githubusercontent.com/105671763/178887463-1e4d7f61-b5a5-4138-ad20-d2e7f3a53dfa.jpeg)
+
 **6.5.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.**
 
 **RL = 220 Ω**
